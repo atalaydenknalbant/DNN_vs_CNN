@@ -4,7 +4,7 @@
 
 # DNN_vs_CNN
 ## Summary
-This dataset compares Which ML algorithm performs better on CIFAR-10 Image Classification Dataset.
+This project compares Which ML algorithm performs better on CIFAR-10 Image Classification Dataset.
 
 ## Source
 https://www.cs.toronto.edu/~kriz/cifar.html
